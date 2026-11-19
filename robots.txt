@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://tvapaxtla-web.pages.dev/sitemap.xml
